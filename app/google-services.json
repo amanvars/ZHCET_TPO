@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919738874570",
+    "firebase_url": "https://zhcet-tpo.firebaseio.com",
+    "project_id": "zhcet-tpo",
+    "storage_bucket": "zhcet-tpo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919738874570:android:9b7dac9e58649997",
+        "android_client_info": {
+          "package_name": "com.avaj.zhcettpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919738874570-q0dftk8phphsjdfiavi3kgcabo30rao8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbP4y17aH1WFIrzCgx_3RVL41E8yO-HI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

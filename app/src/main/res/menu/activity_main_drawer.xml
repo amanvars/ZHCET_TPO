@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/gp1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/info"
+            android:title="About Us" />
+        </group>
+    <group
+        android:id="@+id/gp2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_team"
+            android:icon="@drawable/group"
+            android:title="Team" />
+        </group>
+    <group
+        android:id="@+id/gp3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dev"
+            android:icon="@drawable/app"
+            android:title="Developers" />
+        </group>
+    <group
+        android:id="@+id/gp4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/rate"
+            android:title="Rate App" />
+    </group>
+    <group
+        android:id="@+id/gp5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout"
+
+            />
+    </group>
+
+
+
+</menu>

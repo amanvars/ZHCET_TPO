@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ZHCET TPO</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Rate App</string>
+
+
+    <!-- login register -->
+    <string name="hint_email">Email</string>
+    <string name="hint_enrol">Enrolment No</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Other than 4th Year. Register Here.</string>
+    <string name="btn_link_to_login">4th Year registred! Login Me.</string>
+    <string name="btn_link_to_login_other">Other than 4th Year. Login Here.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_show_msg">TPO Notification</string>
+    <string name="title_activity_view_feed">View_feed</string>
+    <string name="title_activity_app_team">Developers</string>
+
+    <!--fb app-->
+    <string name="action_logout"> Log Out</string>
+    <string name="loading">Loading</string>
+    <string name="facebook_app_id">1399328926848652</string>
+
+
+    <string name="fb_aman"><a href="http://www.facebook.com/amanvars">Facebook</a></string>
+    <string name="title_activity_about">About Us</string>
+    <string name="aboutus">\nTraining and Placement Cell of ZHCET promotes career counseling and organizes campus recruitment to provide ample opportunities for placement of engineering students.\n\nIt also caters to the need of Instructional and Industrial requirements through state of the art facilities, new technologies and human resources in collaboration with all the Department of studies.\n\nZHCET TPO app is basically a notification app that provides students with day-to-day updates regarding placements and other essential information quickly and easily.</string>
+
+
+</resources>
